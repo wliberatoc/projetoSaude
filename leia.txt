@@ -1,0 +1,5 @@
+projeto upado dia 08/09/2019 >> nesse update fou resolvido os problemas das máscaras
+falta validar login,
+passar telefone e endereço de paciente na "consulta",
+fazer as funções na consulta 
+fazer a função de adicionar data,horario, codPac e codMed na tabela consulta.
